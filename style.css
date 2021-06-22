@@ -1,0 +1,9 @@
+.body_background 
+{ background-image: url("bg1.jpg");
+     background-position: center;
+      background-size: cover; }
+      h1{font-size: 20px;
+    color: fffd06c;
+    }
+    #mycanvas{background-color:azure;
+    border-style: ridge;}
